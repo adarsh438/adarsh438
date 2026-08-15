@@ -60,15 +60,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh438&show_icons=true&theme=midnight-purpur&count_private=true" alt="Adarsh's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh438&theme=midnight-purpur" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh438&layout=compact&theme=midnight-purpur" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh438&theme=react-dark" alt="Activity Graph" width="48%" />
 </p>
 
 ---
@@ -76,5 +72,5 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adarsh438/adarsh438/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/adarsh438/adarsh438/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
